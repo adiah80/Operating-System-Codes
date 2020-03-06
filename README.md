@@ -15,6 +15,7 @@ Topics covered in the exercises include :
 ## Question 2.1
 
 Execute : `gcc -lpthread -lrt -pthread Question2.1.c -w && ./a.out 1 2`
+
 Output : 
 ```
 Num Children : 1
