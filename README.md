@@ -1,6 +1,8 @@
 # Topics
 
-Topics covered in the exercises include : 
+ Questions are taken from assignments of CS F372 [Operating Systems] course offered at BITS-Pilani, Goa.
+
+Topics covered in the exercises include :
 
 - Assignment 1 : Kernel Recompilation
 - Assignment 2/3 : Processes
